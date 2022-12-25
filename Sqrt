@@ -1,0 +1,14 @@
+number = int(input("enter a number: "))
+sqrt = number ** 0.5
+print("square root:", sqrt)
+if(sqrt>20):
+	print('hello')
+else:
+	print('hi')
+
+O/p.....
+enter a number: 64
+square root: 8.0
+hi
+
+[Program finished]
